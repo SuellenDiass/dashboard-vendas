@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">Seja redirecionado à página do 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZTRhYmJjMmItZDJjNC00MWQxLWFjOTAtZTQzYmI3ZWI4MTBiIiwidCI6IjA4MzI4ODJiLTAzNGQtNGIyOS04YWY1LTI0NDY5NmU1YWZhMyJ9" target="_blank">projeto</a></p>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTRhYmJjMmItZDJjNC00MWQxLWFjOTAtZTQzYmI3ZWI4MTBiIiwidCI6IjA4MzI4ODJiLTAzNGQtNGIyOS04YWY1LTI0NDY5NmU1YWZhMyJ9" target="_blank">projeto</a> onde você pode interagir com os gráficos clicando neles</p>
 
 
 <p> <h1 align="center">Dashboard Vendas</h1></p>
